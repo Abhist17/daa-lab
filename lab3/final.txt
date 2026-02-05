@@ -1,0 +1,11 @@
+SO if input is already sorted (ascending or Descending)
+
+***Merge Sort***
+always divides equally 
+input doesnt affects the performance 
+Complexity remains O(n logn)
+
+
+Cons of quick sort : 
+1) high dependancy on the pivot selection 
+2) already sorted input causes worst case 
