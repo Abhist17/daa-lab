@@ -1,5 +1,5 @@
 // Ques 1 
-// C progra to perform a) Merge sort
+// C program to perform a) Merge sort
 // Also to write the recurrance relation and the time complexity in best case/average case and also the worst case.
 // Also if input is already in order either ascending or descending
 // Which sorting algorithm is best for this

@@ -1,0 +1,11 @@
+For the recurrance relation for the Merge Sort 
+1) divides the array into two equal halves i.e.
+T(n) = 2T(n/2) + O(n)
+
+
+Time Complexity
+Best case - O(n logn)
+
+Average case - O(n logn)
+
+Worst case - O(n logn)

@@ -1,0 +1,18 @@
+Recurrance relation - Quick Sort 
+
+Best and Average case: 
+
+T(n) = 2T(n/2) + O(n)
+
+
+WOrst Case :
+
+Unbalanced Partition :
+T(n) = T(n - 1) + O(n)
+
+
+Time Complexity
+Best Case = O(n logn)
+Average Case = O(n logn)
+
+Worst case = O(n^2)
