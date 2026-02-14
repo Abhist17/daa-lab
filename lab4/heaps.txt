@@ -1,0 +1,7 @@
+Min Heap for Descending Order:
+Min heap has smallest element at root. Extract min repeatedly and place at end to get descending order.
+Time Complexity:
+
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n log n)
